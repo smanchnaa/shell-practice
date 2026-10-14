@@ -8,4 +8,4 @@ echo "Username is $USER_NAME"
 echo Please ente your Password"
 read -s PASSWORD
 
-echo "Passowrd is: $PASSWORD"
+echo "Password is: $PASSWORD"
