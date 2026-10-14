@@ -6,7 +6,6 @@ sleep 20
 
 end_time=$(date +%s)
 
-echo "Script end time: $end_time"
 
 TOTAL_TIME=$(($end_time-$start_time))
 
