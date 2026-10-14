@@ -1,6 +1,10 @@
 #! /bin/bash
 
-echo "Ramesh: Hey Ukraine, we are going blast you!"
-echo "Suresh: Yes, please. you are welcome"
-echo "Ramesh: Hey Suresh I am serious"
-echo "Suresh: Hey Ramesh, we are also serious"
+PERSON1=Swetha
+PERSON1=Srikanth
+
+
+echo "$PERSON1: Hey Kanth, we are going blast you!"
+echo "$PERSON2: Yes, please. you are welcome"
+echo "$PERSON1: Hey $PERSON2 I am serious"
+echo "$PERSON2: Hey $PERSON1, we are also serious"
