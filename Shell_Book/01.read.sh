@@ -1,8 +1,9 @@
 #1/bin/bash
 
-name="kanth"
+name=$1
+echo "$name: what is your name" 
 echo "Name: $name"
 
 echo "Enter your age"
 read age
-echo "your are $age years old"
+echo "$name age is  $age years old"
