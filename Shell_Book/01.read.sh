@@ -1,7 +1,7 @@
 #1/bin/bash
 
 name=$1
-echo "$name: what is your name" 
+echo "$name:Hi  what is your name" 
 echo "Name: $name"
 
 echo "Enter your age"
