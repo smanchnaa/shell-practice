@@ -6,7 +6,6 @@ sleep 20
 
 end_time=$(date +%s)
 
-
 TOTAL_TIME=$(($end_time-$start_time))
 
-echo "Time difference is $TOTAL_TIME"
+echo "Time difference is $TOTAL_TIME seconds"
