@@ -5,7 +5,7 @@ read USER_NAME
 
 echo "Username is $USER_NAME"
 
-echo Please ente your Passowrd"
+echo Please ente your Password"
 read -s PASSWORD
 
-echo "Passowrd is:: $PASSWORD"
+echo "Passowrd is: $PASSWORD"
