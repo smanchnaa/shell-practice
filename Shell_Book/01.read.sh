@@ -1,7 +1,7 @@
 #1/bin/bash
 
 name=$1
-echo "$name:Hi $name what is your name" 
+echo "what is your name" 
 read name
 echo "Name: $name"
 
